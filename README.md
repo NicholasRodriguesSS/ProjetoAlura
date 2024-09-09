@@ -1,4 +1,4 @@
-## Atleta do Brasil: Busque seu ídolo e inspire-se!
+## Atleta do Brasil: Busque seu ídolo e inspire-se! - Imersão Dev com Google Gemini - Alura
 
 **O que faz essa aplicação?**
 
